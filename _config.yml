@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Daniela Rodrigues"
+title                    : " "
 title_separator          : "-"
 name                     : &name "Daniela Rodrigues"
 description              : &description "personal description"
