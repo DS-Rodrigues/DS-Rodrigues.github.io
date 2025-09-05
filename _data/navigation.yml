@@ -7,9 +7,9 @@
 # NOTE that only one of the CV options should be selected, the first is for the
 #      Markdown formatted page while the second is generated using JSON.
 
-# main:
-  # - title: "Publications"
-  #   url: /publications/
+main:
+  - title: "Publications"
+     url: https://scholar.google.com/citations?user=-1ovbAoAAAAJ&hl=en
 
   # - title: "Talks"
   #  url: /talks/    
