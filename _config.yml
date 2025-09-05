@@ -27,7 +27,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : # "Short biography for the left-hand sidebar"
   location         : "Boston, US"
-  employer         : "Department of Health Care Policy, Harvard Medical School"
+  employer         : "Harvard Medical School"
   uri              : # URL
   email            : "rodrigues@hcp.med.harvard.edu" 
 
@@ -62,7 +62,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/danielasofiarodrigues/"
+  linkedin         : "danielasofiarodrigues"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
